@@ -31,7 +31,7 @@
     "escodegen": "^1.14.1",
     "html-encoding-sniffer": "^2.0.1",
     "is-potential-custom-element-name": "^1.0.0",
-    "nwsapi": "^2.2.0",
+    "nwsapi": "git+https://github.com/dperini/nwsapi.git#6dac2ca8f91c5a89705ef28f88945c3e800dc062",
     "parse5": "5.1.1",
     "request": "^2.88.2",
     "request-promise-native": "^1.0.8",
